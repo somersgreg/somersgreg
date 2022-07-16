@@ -4,6 +4,12 @@
 
 ---
 
+<!--STARTS_HERE_QUOTE_README-->
+
+<!--ENDS_HERE_QUOTE_README-->
+
+---
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
